@@ -14,7 +14,7 @@ Perdix es un robot de batalla o Battlebot desarrollado en el transcurso del Tall
 
 ### Estrategia utilizada
 #### Ofensiva
-<Explicar brevemente el arma utilizada.>
+El arma de Perdix es una sierra diamantada, de ahi el nombre Perdix, la cual gira gracias a un motor DC de 9V. 
 
 #### Defensiva
 <Explicar el modo de defensa del robot.>
