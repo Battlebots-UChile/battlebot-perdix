@@ -1,5 +1,5 @@
 # Perdix - 2018
-Perdix es un robot de batalla o Battlebot desarrollado en el transcurso del Taller de Poryecto EI2001-31 de la Facultad de Ciencias Fisicas y Matematicas de la Universidad de Chile. El proyecto consiste en la construccion desde cero de un Battlebot, desde su diseño hasta su electronica. Sin más veamos cómo se realizó y cómo fue su desarrollo. 
+Perdix es un robot de batalla o Battlebot desarrollado en el transcurso del Taller de Proyecto EI2001-31 de la Facultad de Ciencias Fisicas y Matematicas de la Universidad de Chile. El proyecto consiste en la construccion desde cero de un Battlebot, desde su diseño hasta su electronica. Sin más veamos cómo se realizó y cómo fue su desarrollo. 
 
 
 ![perdix](/multimedia/VISTA_1_FINAL.jpg)
