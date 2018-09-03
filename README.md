@@ -27,5 +27,7 @@ Nuestro equipo partio primero por buscar ideas, estas pueden ser de otros battle
 
 Una vez tenemos las ideas de tamaño y dimensión, empezamos a diseñar las piezas para los planos en SolidEdge. En esta etapa surgen muchas nuevas problematicas, pues aspectos como el funcionamiento de la sierra todavia estaban un poco en duda, sin embargo pudimos sobrellevarlo. Ahora con los planos listos hay que ir a comprar materiales, esto se da muchas veces en el transcurso del proyecto pues no siempre todo funciona a la primera. Imprimos las piezas, las ensamblamos (algunas las pegamos), realizamos el codigo de arduino y el apk, y enchufamos la electronica. Muchas veces se tuvo que reinventar el codigo para que funcionara correctamente y voila tenemos a Perdix. 
 
+Para armar a Perdix hay que imprimir los planos con cortadora laser en MDF de 3 mm y ensamblar las partes. Posteriormente atornillar los motores, el pivote, la sierra y la base para los componentes. Instalar los componentes electronicos y cableados correspondientes, cargar el codigo de arduino y descargar el apk. Finalmente pegar la coraza y sus laterales. PERDIX al ataque. 
+
 ## Licencia
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Licencia Creative Commons Atribución-NoComercial 4.0 Internacional</a>.
