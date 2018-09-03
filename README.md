@@ -20,7 +20,7 @@ El arma de Perdix es una sierra diamantada, de ahi el nombre [Perdix](https://es
 Estan diseñados planos para la coraza y los lados laterales de Perdix, aunque nosotros diriamos que son las ruedas su principal virtud. Cada rueda posee al igual que la sierra un motor DC de 9V, las cuales le dan gran velocidad y maniobrabilidad para escapar de sus enemigos. 
 
 ### Diagrama funcional
-<Diagrama general de funcionamiento. Se sugiere un esquema de sistemas, completo.>
+![diagrama](/multimedia/DIAGRAMA_GEN.png)
 
 ### *BONUS*: Paso a Paso
 Nuestro equipo partio primero por buscar ideas, estas pueden ser de otros battlebots o de nuestra propia imaginación. Despues de tener distintas y variadas ideas, se toman decisiones y se van descartando diseños en base a su viabilidad y desempeño. Al final de esta etapa deberian quedarnos unos 3 o 4 battebots posibles, para estos lo mejor es realizar una matriz de decisión para observar de una forma menos arbitraria cual sera el diseño con el que nos quedaremos. Habiendo determinado el battlebot, ahora hay que poner las manos en la masa, con carton y palos de brochetas nos hacemos una idea de los espacios que ocupara el robot y de su forma.
